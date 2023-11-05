@@ -38,5 +38,7 @@ Python-web-hw11\src\database\seeds.py
 Додатково було створена сторінка index.html. 
 У main.py був створена функція read_root, котра при зверненні за адресою http://localhost:8000/ викликає цю сторінку.
 З цієї сторінки можливо перейти до Swagger або до окремих його функцій Дивись:
+
 Python-web-hw11\main.py
+
 Python-web-hw11\templates\index.html
